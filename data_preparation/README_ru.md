@@ -70,9 +70,10 @@ pip install -r requirements.txt
 ### Структура данных 
 
 ```
-data_preparation/
-├── load-data.ipynb      # основной ноутбук для обработки данных / main data processing notebook
-└── README.md            # документация (этот файл) / documentation (this file)
+├── load-data.ipynb      # основной ноутбук для обработки данных
+├── requirements.txt     # список зависимостей проекта
+├── README_en.md         # документация на английском языке
+└── README_ru.md         # документация на русском языке (этот файл) 
 
 *Примечание: Исходный датасет и обработанные данные не включены в репозиторий.*
 ```
