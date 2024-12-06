@@ -1,6 +1,6 @@
 # WasteSortAI: Automated Waste Sorting
 
-|  English  |  [Русский](README_ru.md)  |
+|  English  |  [Русский](README.md)  |
 
 ## Project Overview
 - **Client**: Renue (IT company, Yekaterinburg)
