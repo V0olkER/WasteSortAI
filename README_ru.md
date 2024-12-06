@@ -20,7 +20,7 @@ WasteSortAI: ИИ для автоматической сортировки от�
 
 ## Установка
 ```bash
-git clone https://github.com/your_username/WasteSortAI
+git clone https://github.com/V0olkER/WasteSortAI
 pip install -r requirements.txt
 ```
 
