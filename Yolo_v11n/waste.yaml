@@ -1,0 +1,21 @@
+path: /kaggle/input/d/v0olker/renue-data/data_zip/renue-data
+train: train/images
+val: val/images
+test: test/images
+nc: 15
+names:
+- PET (transparent) (green)
+- PET (transparent) (brown)
+- PET (transparent) (blue)
+- PET (transparent)
+- PET (transparent) (dark blue)
+- PET (black)
+- PET (white)
+- PET (sticker)
+- PET (flacon)
+- PET (household chemicals)
+- PND (household chemicals)
+- PND packet
+- Other plastic
+- Other plastic (transparent)
+- Not plastic
