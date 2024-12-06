@@ -46,13 +46,16 @@ This notebook is part of the waste detection project aimed at developing an auto
 - zipfile - for archive operations
 
 ### Directory Structure
-
+```
 data_preparation/
 ├── load-data.ipynb      # main data processing notebook
-└── README.md            # documentation (this file)
+├── requirements.txt     # project dependencies
+├── README_en.md         # documentation (this file)
+└── README_ru.md         # documentation in Russian
+
 
 *Note: The original dataset and processed data are not included in the repository.*
-
+```
 ### Usage Instructions
 
 1. Make sure all required libraries are installed
